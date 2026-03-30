@@ -1,4 +1,4 @@
-🎲 Dice Roller: O Destino nas Tuas Mãos
+🎲 Dice Roller: 
 Bem-vindo ao Dice Roller, a aplicação que prova que, se a vida te der limões, podes ignorá-los e lançar dados virtuais. 
 Este projeto foi criado para explorar o Jetpack Compose e entender o Android.
 
